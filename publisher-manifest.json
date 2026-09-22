@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "915adf3b095f1fa000fcb856",
+  "owner": "jichangl1",
+  "repo": "page-bba4a0f1931cc370fb27f537",
+  "title": "云游加速",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "bba4a0f1931cc370fb27f537",
+      "a": "云游加速",
+      "b": "机场官网线路发布页",
+      "entity": "云游加速",
+      "brand": "云游加速",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "000b9f0dac693eed1e53fd72d247f40b5572b9f594d7dec750a50f3509deff3a",
+      "content": {
+        "primary_entity": "云游加速",
+        "keyword1": "云游加速",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应客户端，获取订阅链接后按客户端文档导入配置。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "访问客户端下载地址，获取订阅并完成首次配置。",
+          "AI_CLOSING_TITLE": "选择适合的套餐",
+          "AI_DESCRIPTION": "，云游加速提供基础版、旗舰版和团队版三档套餐，月流量从100GB到1000GB，设备数量从3台到20台，按年付可享优惠。根据日常使用场景选择合适套餐，并在对应设备上导入订阅链接即可开始。",
+          "AI_FAQ_ANSWER_1": "基础版适合单人轻度使用，每月100GB流量，支持3台设备；旗舰版每月300GB，支持5台设备，适合多设备流媒体和游戏需求；团队版每月1000GB，支持20台设备，适合小型团队共享。",
+          "AI_FAQ_ANSWER_2": "在客户端中添加订阅链接后，客户端会拉取节点信息并自动更新。具体操作步骤请参考所用客户端的配置文档，不同系统的导入方式略有差异。",
+          "AI_FAQ_ANSWER_3": "基础版支持3台设备，旗舰版支持5台，团队版支持20台。设备数量按同时在线计算，切换设备时可先在原设备断开连接。",
+          "AI_FAQ_ANSWER_4": "可以，云游加速提供月付和年付两种计费周期。按年付通常比月付更划算，例如旗舰版月付35元，年付仅需350元。",
+          "AI_FAQ_ANSWER_5": "基础版包含普通线路节点池，旗舰版增加IPLC专线节点并优化游戏加速，团队版提供VIP专属高带宽节点，可按需选择。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版的主要区别是什么？",
+          "AI_FAQ_QUESTION_2": "如何在客户端中导入订阅链接？",
+          "AI_FAQ_QUESTION_3": "同一账号可以在多少台设备上使用？",
+          "AI_FAQ_QUESTION_4": "支持按月付费还是按年付费？",
+          "AI_FAQ_QUESTION_5": "高带宽节点和普通线路节点有什么区别？",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FEATURES_INTRO": "从流量、设备数量和线路类型三个角度对比套餐，快速找到适合日常使用的版本。",
+          "AI_FEATURES_TITLE": "套餐核心特点",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB，旗舰版每月300GB，团队版每月1000GB，可按个人或团队用量选择。",
+          "AI_FEATURE_TEXT_2": "基础版支持3台设备，旗舰版支持5台，团队版支持20台，满足手机、电脑和平板多端使用。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付更优惠，例如旗舰版年付350元，适合长期稳定使用的场景。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备数量选",
+          "AI_FEATURE_TITLE_3": "按付费周期选",
+          "AI_GUIDE_INTRO": "从选套餐到完成配置，三步开始使用云游加速。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "云游加速提供基础版、旗舰版和团队版三档海外加速服务，流量从每月100GB到1000GB，支持多设备同时在线。选择适合的套餐后，在对应客户端导入订阅链接即可开始使用。",
+          "AI_HERO_SUBTITLE": "多档套餐灵活选择",
+          "AI_HIGHLIGHT_1": "月付15元起，年付享优惠",
+          "AI_HIGHLIGHT_2": "支持3至20台设备同时在线",
+          "AI_HIGHLIGHT_3": "普通线路与IPLC专线可选",
+          "AI_PLANS_INTRO": "基础版15元每月100GB，旗舰版35元每月300GB，团队版85元每月1000GB，按需选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量和同时在线设备数量，在基础版、旗舰版或团队版中选择。",
+          "AI_STEP_TEXT_2": "确认所用设备的系统版本是否满足客户端运行要求，并准备好订阅链接。",
+          "AI_STEP_TEXT_3": "在对应客户端中导入订阅链接，按客户端文档完成节点选择和连接设置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "云游加速套餐选择"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "lkqjp.cn",
+    "host": "lkqjp.cn"
+  },
+  "file_hashes": {
+    "index.html": "b2eb2e0f54e2bd4a489cea11391235cf35b967120bf64777c8e053a361e05516",
+    "sitemap.xml": "34fddbd81026edac85bccd09c2bfe04cae4f047a4983f6bf7a93908aecc38ac3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "3164fad0cad7127b78c4a891793380739e5a9e5c44fb6abdb9032260c238e229",
+    "robots.txt": "4d4ff3eb62f25878576db0ac06016872dbb0343993cf4400a036aaffbe084e75",
+    "56899b799a6f8bf386a8eeb3eb0d0f4a.txt": "7f00cf8d374620c1114b5bff6d44f6392076ec8a365e3f8601ad8ee41d67770b"
+  },
+  "revision": "556a7582b9bb193cb4bd1bb672b7d145a058d95785c99cc5a5065a1407fb3344"
+}
